@@ -2,7 +2,6 @@
 CMPE 249 – Homework 2: 3D Object Detection (mmdetection3d)
 
 
-
 This repository contains my implementation for Homework 2 using
 **MMDetection3D**.\
 I used the **PointPillars** model and ran inference on **two datasets**:
